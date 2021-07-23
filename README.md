@@ -19,6 +19,9 @@ For more details and to get started, see the
 and [Installation](https://nbviewer.jupyter.org/github/mfherbst/juliacon_dft_workshop/blob/master/1_Installation.ipynb)
 notebooks.
 
+Solutions to the exercises can be found in the [solutions](solutions) subfolder
+ordered by the number of the Jupyter notebook and the exerciese number.
+
 ## Working with these notes online
 If you do not want to install Julia, just run these notes
 [on binder][binder-url],
