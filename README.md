@@ -29,5 +29,10 @@ which will allow you to play with the notebooks in your browser.
 Note that for some of the exercises the computational performance
 available on binder might not be sufficient.
 
+## Citation
+These notes can be cited using this DOI:
+[![DOI](https://zenodo.org/badge/387545954.svg)](https://zenodo.org/badge/latestdoi/387545954)
+
+
 [binder-url]: https://mybinder.org/v2/gh/mfherbst/juliacon_dft_workshop/master
 [binder-img]: https://mybinder.org/badge_logo.svg
